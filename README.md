@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Js, React & Angular.**
 
-- 💬 Ask me about **Html , css , Js & React.**
+- 💬 Ask me about **Html , Css , Js & React.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/raniaatefali/ OR Raniaatef718@gmail.com**
 
