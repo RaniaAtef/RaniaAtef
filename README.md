@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rania Atef</h1>
 <h3 align="center">A passionate frontend developer from Egypt.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/yoeMEA8yexApvYyK8">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 
 
 - 🔭 Graduated from  ITI (Information Technology Institute) Track Web & User Interface.
