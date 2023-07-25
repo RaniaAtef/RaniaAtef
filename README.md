@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rania Atef</h1>
-<img align="right" alt="Coding" width="400" src="[[[https://cdn.dribbble.com/users/116207...](https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180)](https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180)](https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <h3 align="center">A passionate frontend developer from Egypt.</h3>
-<img align="right" alt="Coding" width="400" src="[[[[https://cdn.dribbble.com/users/116207...](https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180)](https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180)](https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwjr5O6ogaqAAxVuQ_EDHSIGAREQMygCegUIARDzAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fpayalthummar&docid=LbZq2RIy3S6JcM&w=640&h=640&q=developer%20coding%20girl%20gif&hl=en&ved=2ahUKEwjr5O6ogaqAAxVuQ_EDHSIGAREQMygCegUIARDzAQ)">
+
 
 - 🔭 I Graduated from **🔭 ITI (Information Technology Institute) Track Web & User Interface.**
 
