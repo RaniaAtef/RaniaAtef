@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
-- 🔭 Graduated from ** ITI (Information Technology Institute) Track Web & User Interface.**
+- 🔭 Graduated from  ITI (Information Technology Institute) Track Web & User Interface.
 
 - 🌱 I’m currently learning **Js, React & Angular.**
 
