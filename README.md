@@ -5,9 +5,9 @@
 
 - 🔭 Graduated from  ITI (Information Technology Institute) Track Web & User Interface.
 
-- 🌱 I’m currently learning **Js, React & Angular.**
+- 🌱 I’m currently working as **Frontend Developer**
 
-- 💬 Ask me about **Html , Css , Js & React.**
+- 💬 Ask me about **Html , Css , Js ,Nextjs & React.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/raniaatefali/ OR Raniaatef718@gmail.com**
 
